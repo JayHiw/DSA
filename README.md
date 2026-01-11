@@ -8,3 +8,29 @@ This repository contains my journey of learning **Data Structures and Algorithms
 - Clean and beginner-friendly Python implementations
 - Important problems with explanations
 - Structured topic-wise folders
+
+01_time_complexity.md
+
+What is Time Complexity
+
+Big O, Big Ω, Big Θ
+
+Common complexities:
+
+O(1), O(log n), O(n), O(n log n), O(n²)
+
+Simple examples (loops, nested loops)
+
+Linear Search → O(n)
+Linear Search (element at first index) → Ω(1)
+Binary Search → Θ(log n)
+O(1) – Constant Timedef get_first_element(arr):
+    return arr[0]
+O(n) – Linear Timedef print_elements(arr):
+    for i in arr:
+        print(i)
+O(n²) – Quadratic Timedef print_pairs(arr):
+    for i in arr:
+        for j in arr:
+            print(i, j)
+
