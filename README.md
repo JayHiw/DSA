@@ -72,3 +72,28 @@ DSA/
 │
 └── README.md
 
+# DSA – Data Structures & Algorithms in Python
+
+This repository documents my journey of learning **Data Structures and Algorithms (DSA)** using **Python**.
+
+The goal is simple:
+build strong problem-solving skills and stay consistent through daily practice.
+
+---
+
+## Language Used
+- **Python**
+
+---
+
+## What’s Inside
+
+- Core DSA concepts
+- Clean, beginner-friendly Python implementations
+- Important problems with explanations
+- Topic-wise structured folders for long-term scalability
+
+---
+
+## Repository Structure
+
