@@ -94,9 +94,6 @@ build strong problem-solving skills and stay consistent through daily practice.
 - Topic-wise structured folders for long-term scalability
 
 ---
-
-## Repository Structure
-
 DSA/
 │
 ├── 00_Basics/
@@ -110,4 +107,5 @@ DSA/
 ├── 03_Searching_Sorting/
 │
 └── README.md
+
 
