@@ -97,3 +97,17 @@ build strong problem-solving skills and stay consistent through daily practice.
 
 ## Repository Structure
 
+DSA/
+│
+├── 00_Basics/
+│   └── 01_time_complexity.md
+│
+├── 01_Arrays/
+│   └── array_traversal.py
+│
+├── 02_Recursion/
+│
+├── 03_Searching_Sorting/
+│
+└── README.md
+
