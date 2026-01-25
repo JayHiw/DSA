@@ -1,9 +1,7 @@
-# DSA
-This repository contains my journey of learning **Data Structures and Algorithms (DSA)** using **Python**.
+# DSA This repository contains my journey of learning **Data Structures and Algorithms (DSA)** using **Python**.
+ Language Used - Python   ## Goal To build strong problem-solving skills and maintain consistency through daily practice.  ---
 
-##  Language Used - Python   ## Goal To build strong problem-solving skills and maintain consistency through daily practice.  ---
-
-##  What’s Inside?
+## What’s Inside?
 - Core DSA concepts
 - Clean and beginner-friendly Python implementations
 - Important problems with explanations
@@ -82,18 +80,6 @@ build strong problem-solving skills and stay consistent through daily practice.
 ---
 
 ## Language Used
-- **Python**
-
----
-
-## What’s Inside
-
-- Core DSA concepts
-- Clean, beginner-friendly Python implementations
-- Important problems with explanations
-- Topic-wise structured folders for long-term scalability
-
----
 DSA/
 │
 ├── 00_Basics/
