@@ -53,22 +53,7 @@ heres an example for 2 d array
 arr = [10, 20, 30, 40, 50]
 
 for i in range(len(arr)):
-    print(arr[i])
-
-to do 
-DSA/
-│
-├── 00_Basics/
-│   ├── 01_time_complexity.md
-│
-├── 01_Arrays/
-│   ├── array_traversal.py
-│
-├── 02_Recursion/
-│
-├── 03_Searching_Sorting/
-│
-└── README.md
+    print(arr[i]
 
 # DSA – Data Structures & Algorithms in Python
 
