@@ -1,7 +1,6 @@
 Language Used - Python   ## Goal To build strong problem-solving skills and maintain consistency through daily practice.
 
 ## What’s Inside?
-- Core DSA concepts
 - Clean and beginner-friendly Python implementations
 - Important problems with explanations
 - Structured topic-wise folders
