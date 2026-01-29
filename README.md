@@ -1,8 +1,8 @@
-Language Used - Python   ## Goal To build strong problem-solving skills and maintain consistency through daily practice.
+Language Used - Python  
+## Goal To build strong problem-solving skills and maintain consistency through daily practice.
 
 ## What’s Inside?
 - Clean and beginner-friendly Python implementations
-- Important problems with explanations
 - Structured topic-wise folders
 
 01_time_complexity.md
