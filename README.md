@@ -57,8 +57,6 @@ for i in range(len(arr)):
 
 This repository documents my journey of learning **Data Structures and Algorithms (DSA)** using **Python**.
 
-The goal is simple:
-build strong problem-solving skills and stay consistent through daily practice.
 
 
 
