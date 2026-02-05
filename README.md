@@ -53,10 +53,4 @@ arr = [10, 20, 30, 40, 50]
 for i in range(len(arr)):
     print(arr[i]
 
-# DSA – Data Structures & Algorithms in Python
-
-This repository documents my journey of learning **Data Structures and Algorithms (DSA)** using **Python**.
-
-
-
 
