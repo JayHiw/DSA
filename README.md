@@ -1,5 +1,5 @@
 Language Used - Python  
-## Goal To build strong problem-solving skills and maintain consistency through daily practice.
+skills and maintain consistency through daily practice.
 
 ## What’s Inside?
 - Clean and beginner-friendly Python implementations
