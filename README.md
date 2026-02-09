@@ -1,9 +1,4 @@
-Language Used - Python  
-skills and maintain consistency through daily practice.
 
-## What’s Inside?
-- Clean and beginner-friendly Python implementations
-- Structured topic-wise folders
 
 01_time_complexity.md
 
