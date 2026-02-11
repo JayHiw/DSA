@@ -1,5 +1,3 @@
-
-
 01_time_complexity.md
 
 What is Time Complexity
