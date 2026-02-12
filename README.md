@@ -1,6 +1,4 @@
-01_time_complexity.md
 
-What is Time Complexity
 
 Big O, Big Ω, Big Θ
 
