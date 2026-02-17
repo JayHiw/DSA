@@ -1,11 +1,5 @@
 
 
-Big O, Big Ω, Big Θ
-
-O(1), O(log n), O(n), O(n log n), O(n²)
-
-Simple examples (loops, nested loops)
-
 
 Linear Search (element at first index) → Ω(1)
 Binary Search → Θ(log n)
