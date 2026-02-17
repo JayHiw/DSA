@@ -6,7 +6,7 @@ O(1), O(log n), O(n), O(n log n), O(n²)
 
 Simple examples (loops, nested loops)
 
-Linear Search → O(n)
+
 Linear Search (element at first index) → Ω(1)
 Binary Search → Θ(log n)
 O(1) – Constant Timedef get_first_element(arr):
@@ -28,11 +28,6 @@ Theory notes (.md)
 
 Code examples (.py / .c)
 
-Prepared base for upcoming topics:
-
-Arrays
-
-Recursion
 
 Searching & Sorting
 Add time complexity theory with examples and structured notes
