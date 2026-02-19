@@ -1,13 +1,3 @@
-
-
-
-Linear Search (element at first index) → Ω(1)
-Binary Search → Θ(log n)
-O(1) – Constant Timedef get_first_element(arr):
-    return arr[0]
-O(n) – Linear Timedef print_elements(arr):
-    for i in arr:
-        print(i)
 O(n²) – Quadratic Timedef print_pairs(arr):
     for i in arr:
         for j in arr:
