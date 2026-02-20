@@ -1,7 +1,4 @@
-O(n²) – Quadratic Timedef print_pairs(arr):
-    for i in arr:
-        for j in arr:
-            print(i, j)
+
 Repository Structure Update
 
 Organized DSA repo for long-term scalability
