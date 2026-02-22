@@ -7,10 +7,7 @@ Separated:
 
 Theory notes (.md)
 
-Code examples (.py / .c)
-
-
-Searching & Sorting
+Code examples (.py / .c
 Add time complexity theory with examples and structured notes
 heres an example for 2 d array
 arr = [10, 20, 30, 40, 50]
